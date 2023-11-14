@@ -1,6 +1,7 @@
 # Iris Flower Classification using Machine Learning
 
 This repository contains a machine learning model for classifying iris flowers based on their sepal and petal characteristics. The model is trained on the famous Iris dataset, which is often used as a beginner's dataset in machine learning.
+
 ## Images
 
 ![image-1](https://github.com/arijit258/OIBSIP/blob/main/Iris_Flower_Classification/image-1.png)
