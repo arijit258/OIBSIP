@@ -29,9 +29,17 @@ git clone https://github.com/yourusername/unemployment-analysis.git
 cd unemployment-analysis
 ```
 
+
 2. Install the required dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
 
+## Images
+![image-1](https://github.com/arijit258/OIBSIP/blob/main/Unemployment_Analysis/image-1.png)
+![image-2](https://github.com/arijit258/OIBSIP/blob/main/Unemployment_Analysis/image-2.png)
+![image-3](https://github.com/arijit258/OIBSIP/blob/main/Unemployment_Analysis/image-3.png)
+![image-4](https://github.com/arijit258/OIBSIP/blob/main/Unemployment_Analysis/image-4.png)
+![image-5](https://github.com/arijit258/OIBSIP/blob/main/Unemployment_Analysis/image-5.png)
+![image-6](https://github.com/arijit258/OIBSIP/blob/main/Unemployment_Analysis/image-6.png)
