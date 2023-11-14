@@ -4,6 +4,13 @@ This repository contains a machine learning model for classifying iris flowers b
 
 ## Getting Started
 
+## Images
+
+![image-1](https://github.com/arijit258/OIBSIP/blob/main/Iris_Flower_Classification/image-1.png)
+![image-2](https://github.com/arijit258/OIBSIP/blob/main/Iris_Flower_Classification/image-2.png)
+![image-3](https://github.com/arijit258/OIBSIP/blob/main/Iris_Flower_Classification/image-3.png)
+![image-4](https://github.com/arijit258/OIBSIP/blob/main/Iris_Flower_Classification/image-4.png)
+
 ### Prerequisites
 
 Make sure you have the following dependencies installed:
